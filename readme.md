@@ -12,20 +12,21 @@
 
 # 📖 目录
 
-- [📌 第一步：设置GitHub仓库](#-the-first-step--set-up-the-github-repository)
-- [💡 我们从哪里获取灵感？](#-where-do-we-get-ideas-)
-- [🚩 看完这些个人资料后，我们该怎么做？](#-what-do-we-do-after-seeing-these-profiles-)
-  - [🧩 徽章 ](#-badges-)
-  - [🛠️ 小部件 ](#%EF%B8%8F-widgets-)
-  - [✅ 图标 ](#-icons-)
-  - [⚙️ 个人资料生成器 ](#%EF%B8%8F-profile-generator-)
-  - [😉 表情符号 ](#-emojis)
-- [点亮一颗星 ⭐](#give-a-star-)
+- [📌 第一步：设置GitHub仓库](#-📌-第一步：设置GitHub仓库-)
+- [💡 我们从哪里获取灵感？](#💡-我们从哪里获取灵感？-)
+- [🚩 看完这些个人资料后，我们该怎么做？](#🚩-看完这些个人资料后，我们该怎么做？)
+  - [🧩 徽章 ](#🧩-徽章-👇)
+  - [🛠️ 小部件 ](#🛠️-小部件-👇-)
+  - [✅ 图标 ](#-✅-图标-👇-)
+  - [⚙️ 个人资料生成器 ](#-⚙️-个人资料生成器-👇-)
+  - [😉 表情符号 ](#-😉-表情符号-)
+- [点亮一颗星 ⭐](#-点个星-⭐-)
 
 # 📌 第一步：设置GitHub仓库
 
-用你的GitHub用户名创建一个仓库 👇
+用您的GitHub用户名创建一个仓库 👇
 
+- 注：下图使用了[Github中文化插件](https://github.com/maboloshi/github-chinese)
 <br>
 
 <img src="name.png">
@@ -70,7 +71,9 @@
 <br/>
 <br/>
 
-📍 例如 : &nbsp; ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) &nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+📍 例如 : &nbsp; 
+
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) &nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br/>
 <br/>
 
@@ -78,7 +81,9 @@
 
 一种计算Markdown文件上查看次数的徽章生成器服务。
 
-📍 例如 : &nbsp; ![HitCount](https://hits.dwyl.com/dwyl/hits.svg?style=flat-square)
+📍 例如 : &nbsp; 
+
+![HitCount](https://hits.dwyl.com/dwyl/hits.svg?style=flat-square)
 <br/>
 <br/>
 
@@ -86,7 +91,9 @@
 
 简洁、一致和清晰的SVG和光栅徽章，以及使用自定义值制作令牌。
 
-📍 例如 : &nbsp; <img src="https://img.shields.io/badge/reza-shakeri-%20"/> &nbsp; <img alt="AppVeyor tests badge" src="https://img.shields.io/badge/tests-477%20passed%2C%202%20failed-red"> &nbsp; <img alt="Open VSX Rating (Stars) badge" src="https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen">
+📍 例如 : &nbsp; 
+
+<img src="https://img.shields.io/badge/reza-shakeri-%20"/> &nbsp; <img alt="AppVeyor tests badge" src="https://img.shields.io/badge/tests-477%20passed%2C%202%20failed-red"> &nbsp; <img alt="Open VSX Rating (Stars) badge" src="https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen">
 <br/>
 
 #### 5 . [laravel github个人资料查看计数器](https://github.com/caneco/laravel-github-profile-view-counter)
@@ -97,9 +104,9 @@
 
 使用此独特的StackOverflow徽章显示您的统计信息
 
-📍 例如 : &nbsp; <img alt="StackOverflow user information" src="https://camo.githubusercontent.com/0e3f8d75dc79e395d7ae8e617ab5b4b8d1
+📍 例如 : &nbsp; 
 
-e1cbda263347eb9556c4c1edf39004/68747470733a2f2f737461636b6f766572666c6f772d62616467652e6865726f6b756170702e636f6d2f6170692f537461636b4f766572666c6f7742616467652f3134313232333735" data-canonical-src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375" style="max-width: 100%;">
+<img alt="StackOverflow user information" src="https://camo.githubusercontent.com/0e3f8d75dc79e395d7ae8e617ab5b4b8d1e1cbda263347eb9556c4c1edf39004/68747470733a2f2f737461636b6f766572666c6f772d62616467652e6865726f6b756170702e636f6d2f6170692f537461636b4f766572666c6f7742616467652f3134313232333735" data-canonical-src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375" style="max-width: 100%;">
 <br/>
 <br/>
 
@@ -107,7 +114,9 @@ e1cbda263347eb9556c4c1edf39004/68747470733a2f2f737461636b6f766572666c6f772d62616
 
 用于GitHub个人资料自述的Youtube统计徽章。显示您的频道的订阅者总数或视图次数。
 
-📍 例如 : &nbsp; <img alt="youtube views" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/536bf6638e990166a87efd80d9a24b789f801f652ea530369addaa90e4662cf1/68747470733a2f2f6672657368696465612e636f6d2f6a6f6e61682f796f75747562652d6170692f766965772d636f756e742d62616467652e7068703f6c6162656c3d5669657773267374796c653d666f722d7468652d626164676526636f6c6f723d726564266c6162656c436f6c6f723d63653436333023" data-canonical-src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=Views&amp;style=for-the-badge&amp;color=red&amp;labelColor=ce4630#" style="max-width: 100%;"> &nbsp; <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/1e1b45604dd286eeaf3f408f4a724a03a776d6bfc9ea1f5b3c72b82919fbbdb9/68747470733a2f2f6672657368696465612e636f6d2f6a6f6e61682f796f75747562652d6170692f73756273637269626572732d62616467652e7068703f7374796c653d666f722d7468652d626164676523" data-canonical-src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?style=for-the-badge#" style="max-width: 100%;">
+📍 例如 : &nbsp;
+
+ <img alt="youtube views" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/536bf6638e990166a87efd80d9a24b789f801f652ea530369addaa90e4662cf1/68747470733a2f2f6672657368696465612e636f6d2f6a6f6e61682f796f75747562652d6170692f766965772d636f756e742d62616467652e7068703f6c6162656c3d5669657773267374796c653d666f722d7468652d626164676526636f6c6f723d726564266c6162656c436f6c6f723d63653436333023" data-canonical-src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=Views&amp;style=for-the-badge&amp;color=red&amp;labelColor=ce4630#" style="max-width: 100%;"> &nbsp; <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/1e1b45604dd286eeaf3f408f4a724a03a776d6bfc9ea1f5b3c72b82919fbbdb9/68747470733a2f2f6672657368696465612e636f6d2f6a6f6e61682f796f75747562652d6170692f73756273637269626572732d62616467652e7068703f7374796c653d666f722d7468652d626164676523" data-canonical-src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?style=for-the-badge#" style="max-width: 100%;">
 <br/>
 <br/>
 
@@ -313,7 +322,7 @@ Topmate是一个与观众1:1连接并更好地实现时间变现的平台。基�
 [![Yaroslav Podorvanov profile views](https://github.com/u8views/go-u8views/blob/main/public/assets/images/yaroslav-podorvanov-developer.jpg?raw=true)](https://u8views.com/github/YaroslavPodorvanov)
 ---
 
-## 🛠️ 小工具 👇
+## 🛠️ 小部件 👇
 
 #### 1 . [Todoist Readme](https://github.com/abhisheknaiidu/todoist-readme)
 
